@@ -96,9 +96,3 @@ dog.circle(25, 180)
 turtle.mainloop()
 
 
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ALLEGORY1133/FormKitten.git
-git push -u origin main
